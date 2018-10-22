@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "706277162072",
+    "firebase_url": "https://electionmonitoring-b8b9e.firebaseio.com",
+    "project_id": "electionmonitoring-b8b9e",
+    "storage_bucket": "electionmonitoring-b8b9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706277162072:android:d1fbd69f54c1aa33",
+        "android_client_info": {
+          "package_name": "com.donald.election_monitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706277162072-8bjv5c3t9b63qab3u386hntqclmjnu9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.donald.election_monitoring",
+            "certificate_hash": "ddd41d1ef153c4939a3bc05d68ceff404439546b"
+          }
+        },
+        {
+          "client_id": "706277162072-0tpbcs3thutsie7en0pks9gd17k2nrmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnMML3Bf_0h4CsxP1-YG2ntL_0-p617k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706277162072-0tpbcs3thutsie7en0pks9gd17k2nrmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
